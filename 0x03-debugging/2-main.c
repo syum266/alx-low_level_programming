@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 #include <unistd.h>
+#include <string.h>
 /**
 * main - prints the largest of 3 integers
 * Return: 0
