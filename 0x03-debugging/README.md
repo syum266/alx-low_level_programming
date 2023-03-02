@@ -1,1 +1,1 @@
-this project is all about debugging
+this debuging
