@@ -1,1 +1,1 @@
-wey debugging
+this project is all about debugging
