@@ -2,6 +2,7 @@
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
+int largest_number();
 /**
 * main - prints the largest of 3 integers
 * Return: 0
